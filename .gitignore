@@ -1,0 +1,5 @@
+*.markdown
+.DS_Store
+
+bin/*
+scrapbook
